@@ -1,0 +1,32 @@
+[meta]
+version = 1
+name = "Omarchy"
+description = "Follow your Omarchy system theme."
+variant = "dark"
+inherits = "vicinae-dark"
+icon = "/home/atif/.local/share/omarchy/icon.png"
+
+[colors.core]
+background = "#022A38"
+foreground = "#eddfea"
+secondary_background = "#072f3d"
+border = "#5ca9c4"
+accent = "#a8ae98"
+
+[colors.list.item.hover]
+background = "#0c3442"
+foreground = "#eddfea"
+
+[colors.list.item.selection]
+background = "#113947"
+foreground = "#eddfea"
+
+[colors.accents]
+blue = "#9c9dba"
+green = "#68cfa3"
+magenta = "#cf96cc"
+orange = "#a8ae98"
+purple = "#edd4ec"
+red = "#CD5BA3"
+yellow = "#d4d7cb"
+cyan = "#86e7ee"
